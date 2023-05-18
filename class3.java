@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class A{
 void wish (){
-            System.out.println("good morning");
+            System.out.println("good afternoon");
 }
     }
     class B extends A{
