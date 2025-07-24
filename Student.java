@@ -11,7 +11,6 @@ public void showdata(){
     System.out.println("length is "+length);
     System.out.println("breadth is "+breadth);
     System.out.println("height is "+height);
-    
 }
 }
 
