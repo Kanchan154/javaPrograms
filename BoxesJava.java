@@ -35,31 +35,31 @@ public class BoxesJava{
 public static void main(String[]args){
 
 
-//     System.out.println("length is "+length);
-//     System.out.println("breadth is "+breadth);
-//     System.out.println("height is "+height);
-//     System.out.println("value of k= "+k);
+    System.out.println("length is "+length);
+    System.out.println("breadth is "+breadth);
+    System.out.println("height is "+height);
+    System.out.println("value of k= "+k);
 
-// static void setk(int p){
-//     k=p;
-// }
-// public static void main(String[]args){
-//     Boxes b1=new Boxes();
-//     Boxes.setk(5);
-//     b1.setdata(15,30,50);
-//     b1.showdata();
+static void setk(int p){
+    k=p;
+}
+public static void main(String[]args){
+    Boxes b1=new Boxes();
+    Boxes.setk(5);
+    b1.setdata(15,30,50);
+    b1.showdata();
 
-//     Boxes b2=new Boxes();
-//     b2.setdata(15,30,50);
-//     b2.showdata();
+    Boxes b2=new Boxes();
+    b2.setdata(15,30,50);
+    b2.showdata();
 
-//     Boxes b3=new Boxes();
-//     b3.setdata(15,30,50);
-//     b3.showdata();
+    Boxes b3=new Boxes();
+    b3.setdata(15,30,50);
+    b3.showdata();
 
-//     //System.out.println();
-//     b3.setk(5);
-//     b3.showdata();
+    //System.out.println();
+    b3.setk(5);
+    b3.showdata();
     
  
 
