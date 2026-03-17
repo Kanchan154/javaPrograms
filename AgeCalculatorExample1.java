@@ -19,5 +19,4 @@ public class AgeCalculatorExample1 {
         int age = calculateAge(dob);
         System.out.println("You are " + age + " years old.");
     }
-
 }
