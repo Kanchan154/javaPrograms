@@ -26,5 +26,4 @@ public class Copying_content_File {
             System.out.println("Error in opening the file" + i);
         }
     }
-
 }
