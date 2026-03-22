@@ -14,6 +14,5 @@ public class Null_Value_Exception {
         catch(NullPointerException n){
             System.out.println("Null can't be casted");
         }
-    }
-    
+    }    
 }
