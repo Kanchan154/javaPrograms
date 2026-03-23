@@ -22,5 +22,4 @@ public class VehiclesAndWheels {
 
         System.out.println("Number of 4 wheelers are : " + x + " and number of 2 Wheelers are: " + y);
     }
-
 }
