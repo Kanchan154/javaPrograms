@@ -21,7 +21,6 @@ class Thread2 extends Thread {
             i++;
         }
     }
-
 }
 
 public class Extended_Multi_Threading {
