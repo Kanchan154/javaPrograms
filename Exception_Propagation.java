@@ -8,7 +8,6 @@ public class Exception_Propagation {
             // TODO: handle exception
             System.out.println("Caught in main : "+e);
         }
-        
     }
     public static void m1(){
         m2();
