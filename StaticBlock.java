@@ -3,7 +3,6 @@
 public class StaticBlock {
     public static void main(String[] args) {
         // StaticBlock s = new StaticBlock();
-
     }
     // Instance Block
     {
@@ -17,5 +16,4 @@ public class StaticBlock {
     StaticBlock(){
         System.out.println("Constructor of Class A");
     }
-    
 }
