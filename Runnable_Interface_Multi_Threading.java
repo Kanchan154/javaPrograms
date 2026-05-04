@@ -1,3 +1,4 @@
+// thread 1
 class RunnableThread1 implements Runnable{
     public void run(){
         int i=0;
@@ -7,6 +8,7 @@ class RunnableThread1 implements Runnable{
         }
     }
 }
+// thread 2
 class RunnableThread2 implements Runnable{
     public void run(){
         int i=0;
@@ -25,7 +27,6 @@ public class Runnable_Interface_Multi_Threading {
         Thread t2 = new Thread(rt2);
         // Start the threads
         t1.start();
-        t2.start();
-        
+        t2.start();   
     }
 }
