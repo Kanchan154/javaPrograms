@@ -42,5 +42,4 @@ public class Area_Of_Different_Shapes {
             System.out.println("Exception occured.......");
         }
     }
-
 }
