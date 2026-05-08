@@ -12,7 +12,6 @@ public class Nested_Exception_Handling {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the index of element to be accessed :");
         int index = sc.nextInt();
-
         try {
             try {
                 System.out.println("The value at array index entered is : " + marks[index]);
@@ -32,6 +31,5 @@ public class Nested_Exception_Handling {
             System.out.println("Some other exception occured.....");
             System.out.println("Exception in LEvel 1");
         }
-
     }
 }
