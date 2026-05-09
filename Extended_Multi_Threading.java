@@ -1,7 +1,5 @@
 class Thread1 extends Thread {
-
     private int id = 1500;
-
     public void run() {
         int i = 0;
         while (i<3000) {
@@ -13,7 +11,6 @@ class Thread1 extends Thread {
 
 class Thread2 extends Thread {
     private int id = 1700;
-
     public void run () {
         int i = 0;
         while (i<3000) {
@@ -32,6 +29,5 @@ public class Extended_Multi_Threading {
         t1.start();
         // starting the thread 2
         t2.start();
-
     }
 }
