@@ -2,7 +2,8 @@ package File_Handling;
 
 import java.io.*;
 import java.util.*;
-  
+
+
 public class ReadFile {
     @SuppressWarnings("resource")
     public static void main(String[] args) {
