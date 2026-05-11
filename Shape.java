@@ -43,7 +43,6 @@ public class Shape {
         System.out.println("\nDetails of Cylinder:");
         cy.SetRadius();
         cy.getHeight();
-        cy.getVolume();
-        
+        cy.getVolume();       
     }
 }
